@@ -1,0 +1,29 @@
+_repo: An-English-Girl-s-First-Impressions-of-Burmah_40001
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40001-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ellis, Beth
+    alias: Ellis, Elizabeth
+    birthdate: 1874
+    deathdate: 1913
+    gutenberg_agent_id: '40361'
+    url: http://www.gutenberg.org/2009/agents/40361
+    wikipedia: https://en.wikipedia.org/wiki/Beth_Ellis
+description: ''
+gutenberg_issued: '2012-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40001'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Burma -- Description and travel'
+- !lcsh 'Ellis, Beth, 1874-1913'
+- !lcc 'DS'
+title: An English Girl's First Impressions of Burmah
+url: http://www.gutenberg.org/ebooks/40001
