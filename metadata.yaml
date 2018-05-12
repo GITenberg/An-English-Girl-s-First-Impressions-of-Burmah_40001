@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40361
     wikipedia: https://en.wikipedia.org/wiki/Beth_Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40001#An-English-Girl-s-First-Impressions-of-Burmah
 gutenberg_issued: '2012-06-16'
 gutenberg_type: Text
 identifiers:
